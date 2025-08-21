@@ -9,7 +9,6 @@ The Finance module is a core component of a larger ERP system, responsible for h
 - **Frontend**: React.js
 - **Backend**: Node.js
 - **Database**: MongoDB
-- **Authentication**: JWT-based auth
 - **API Pattern**: RESTful services
 
 ---
